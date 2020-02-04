@@ -10,7 +10,6 @@ even_word('aaabbbccc') == 3
 
 ## Directions
 0. Fork and clone this lab
-1. Write unit tests in `even_word_test.py`
-2. Implement the `even_word` function in `even_word.py` such that all your tests pass.
-3. Open a PR
+1. Implement the `even_word` function in `even_word.py` such that all your tests pass.
+2. Open a PR
 
